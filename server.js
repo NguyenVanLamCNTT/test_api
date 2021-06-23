@@ -21,3 +21,12 @@ const PORT = process.env.PORT || 5000
 app.listen(PORT, () => {
     console.log(`Example app listening at http://localhost:${PORT}`)
 })
+const cors = require('cors');
+
+
+app.use(cors());
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.append('Access-Control-Allow-Headers', 'Content-Type');
+    next();
+})

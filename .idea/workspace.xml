@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="37a5b181-a491-4e1b-8c52-1fd972241505" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,10 @@
       <updated>1624359751903</updated>
       <workItem from="1624359753048" duration="805000" />
       <workItem from="1624360701483" duration="912000" />
-      <workItem from="1624367481527" duration="3606000" />
+      <workItem from="1624367481527" duration="4376000" />
+      <workItem from="1624438040328" duration="1349000" />
+      <workItem from="1624448614200" duration="16000" />
+      <workItem from="1624453071115" duration="70000" />
     </task>
     <servers />
   </component>
@@ -55,5 +59,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
